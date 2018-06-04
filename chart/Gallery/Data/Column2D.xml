@@ -1,0 +1,1 @@
+<chart yAxisName='Jumlah' xAxisName='Status' caption='Jumlah Total Status Hasil Ujian' useRoundEdges='1' bgColor='FFFFFF,FFFFFF' showBorder='0'><set label='Lulus' value='25'  /> <set label='Tidak lulus' value='35' color='red'/> </chart>
